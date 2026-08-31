@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=BE313B&repeat=false&width=435&lines=Brhenda+Laurah" alt="Brhenda Laurah" /></a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE313B&width=435&lines=Welcome+to+my+world!" alt="Welcome" /></a>
+</div>
+
 Tech Stacks
 <div style="display: inline_block">
   <img align="center" alt="Brenda-Python"width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
