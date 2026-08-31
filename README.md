@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=BE313B&repeat=false&width=435&lines=Brhenda+Laurah" alt="Brhenda Laurah" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=BE313B&repeat=false&width=435&lines=Brhenda+Laurah" /></a>
   </p>
 
   <p align="center">
